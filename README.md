@@ -1,4 +1,4 @@
-<img width="65" height="21" alt="image" src="https://github.com/user-attachments/assets/c11ed4e7-2d8e-4ce6-a95d-909336549fd0" /># datadictionarygenerator
+# datadictionarygenerator
 Generates an Excel file of columns, data types and NULL status from CREATE TABLE statement. Uses pre-existing columns and descriptions if supplied as well.
 
 Simple tool that when supplied with SQL as in the example, hard-coded in generate_data_dictionary.py:
